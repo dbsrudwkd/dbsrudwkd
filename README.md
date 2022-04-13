@@ -20,9 +20,8 @@
 얼레벌레 인생기
 1학년 대충 살려그랬는데
 그냥 
-이렇게 막 붙어버리고
 이거 비주얼 스튜디오 코드랑 비슷한 것 같애요
-우와웅
+우와우
 
 <!--
 **dbsrudwkd/dbsrudwkd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
