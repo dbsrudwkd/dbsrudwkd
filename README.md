@@ -3,26 +3,17 @@
 ✨ 안녕하세요 ✨
 
 
-- 🔭 I’m currently working on likelion
-- 🌱 I’m currently learning C, html, css
+- 🔭 I’m currently working on
+- 🌱 I’m currently learning
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 
 
 ### 안녕!
-
-신기하긴한데 뭘 쓰라는 건지 모르겠다. 
-동덕여대 멋사를 하고 있습니다. 넹넹
-일단 열심히 살아보려구요
-얼레벌레 인생기
-1학년 대충 살려그랬는데
-그냥 
-이거 비주얼 스튜디오 코드랑 비슷한 것 같애요
-우와우
-
 <!--
 **dbsrudwkd/dbsrudwkd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
